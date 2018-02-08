@@ -13,6 +13,7 @@
 		4C609388202B7539002303B9 /* SeaFood.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4C609386202B7539002303B9 /* SeaFood.xcdatamodeld */; };
 		4C60938A202B7539002303B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C609389202B7539002303B9 /* Assets.xcassets */; };
 		4C60938D202B7539002303B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C60938B202B7539002303B9 /* LaunchScreen.storyboard */; };
+		4C638B15202C3B9D00BEF37B /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 4C638B14202C3B9D00BEF37B /* Inceptionv3.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4C609389202B7539002303B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C60938C202B7539002303B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4C60938E202B7539002303B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C638B14202C3B9D00BEF37B /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Inceptionv3.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				4C609381202B7539002303B9 /* ViewController.swift */,
 				4C609383202B7539002303B9 /* Main.storyboard */,
 				4C609389202B7539002303B9 /* Assets.xcassets */,
+				4C638B14202C3B9D00BEF37B /* Inceptionv3.mlmodel */,
 				4C60938B202B7539002303B9 /* LaunchScreen.storyboard */,
 				4C60938E202B7539002303B9 /* Info.plist */,
 				4C609386202B7539002303B9 /* SeaFood.xcdatamodeld */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C609382202B7539002303B9 /* ViewController.swift in Sources */,
+				4C638B15202C3B9D00BEF37B /* Inceptionv3.mlmodel in Sources */,
 				4C609380202B7539002303B9 /* AppDelegate.swift in Sources */,
 				4C609388202B7539002303B9 /* SeaFood.xcdatamodeld in Sources */,
 			);
